@@ -3,4 +3,4 @@ work in progress update to vite react soon
 ## aaaaa
 
 
-![](/images/welcome.gif =250x250) 
+<img src="https://github.com/wwwxcvzcnd/profile-vizconde/blob/main/images/welcome.gif?raw=true" width=50%>
