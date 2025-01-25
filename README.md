@@ -3,4 +3,4 @@ work in progress update to vite react soon
 ## aaaaa
 
 
-![](/images/welcome.gif)
+![](/images/welcome.gif=250x250) 
